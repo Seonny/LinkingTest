@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/TestApp-master.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/TestApp-master.d",
+    "diagnostics" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/TestApp-master.dia",
+    "emit-module-dependencies" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/TestApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/TestApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/TestApp-master.swiftdeps"
+  },
+  "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/user/Documents/experiment/LinkingTest/TestApp/TestApp/ContentView.swift" : {
+    "index-unit-output-path" : "/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/user/Documents/experiment/LinkingTest/TestApp/TestApp/TestAppApp.swift" : {
+    "index-unit-output-path" : "/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/TestAppApp.o",
+    "llvm-bc" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/TestAppApp.bc",
+    "object" : "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/Objects-normal/arm64/TestAppApp.o"
+  }
+}

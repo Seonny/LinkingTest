@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "50c99c5d6a7fb7a42a5f78f60e523bba21e4ed8f61256dd7942fff0a45a8d7c4"
+build_start_time: [1716604124, 345319000]
+build_end_time: [1716604124, 622672000]
+inputs:
+  "/Users/user/Documents/experiment/LinkingTest/TestApp/TestApp/ContentView.swift": !dirty [1716365526, 198172949]
+  "/Users/user/Documents/experiment/LinkingTest/TestApp/TestApp/TestAppApp.swift": !dirty [1716357739, 711902462]
+  ? "/Users/user/Documents/experiment/LinkingTest/TestApp/build/TestApp.build/Release-iphoneos/TestApp.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1716604085, 213093138]
